@@ -1,0 +1,29 @@
+If you like songs, colors, and pictures you need to do some steps before running the code:
+	
+	STEP 1:
+
+	- install the color library:
+		write this in Spyder : pip install termcolor
+	
+	- install the pygame library:
+		write this in Spyder: pip install pygame
+
+	STEP 2:
+	
+	restart Spyder
+
+	STEP 3:
+
+	Download the song and the picture from github and save their path
+
+	STEP 4: 
+
+	On the server side update the path and include your own path where you downloaded the song (line 16)
+
+	STEP 5:
+
+	On the server side update the path and include your own path where you downloaded the picture (line 287)
+
+	STEP 6:
+
+	Enjoyy !!!
